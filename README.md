@@ -1,4 +1,4 @@
-#YelpCampBeta
+# YelpCampBeta
 
 YelpCamp is a comprehensive website project built with Node.js, Express, MongoDB, and Bootstrap, which enables users to create and evaluate campgrounds. An account is required to write or assess a campground. This is the capstone project of Colt Steele's web development boot camp course available on Udemy.
 
