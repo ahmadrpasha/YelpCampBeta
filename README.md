@@ -12,7 +12,7 @@ The website enables non-registered visitors to view campground and review detail
 
 >The user can only edit/delete the campgrounds and comments that they have added.
 
->All the data will pe persistent and is stored in the awazon cloud.
+>All the data will pe persistent and is stored in the amazon cloud.
 
 ## Technologies Used:
 
